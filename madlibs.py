@@ -7,12 +7,19 @@
 #print("subscribe to {}".format(youtuber))
 #print(f"subscribe to {youtuber}")
 
-adj = input("Adjective: ")
-verb1 = input("Verb: ")
-verb2 = input("Verb: ")
-famous_person = input("Famous person: ")
+#adj = input("Adjective: ")
+#verb1 = input("Verb: ")
+#verb2 = input("Verb: ")
+#famous_person = input("Famous person: ")
 
-madlib = f"Computer programming is so {adj}! It makes me so excited all the time because \
-I love to {verb1}. Stay hydrated and {verb2} like you are {famous_person}!"
+#madlib = f"Computer programming is so {adj}! It makes me so excited all the time because \
+#I love to {verb1}. Stay hydrated and {verb2} like you are {famous_person}!"
 
-print(madlib)
+#print(madlib)
+
+#from sample_madlibs import hp, code, zombie, hungergames
+#import random
+
+#if __name__ == " __main__":
+    #m = random.choice([hp, code, zombie, hungergames])
+    #m.madlib()
